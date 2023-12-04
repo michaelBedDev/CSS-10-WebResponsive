@@ -60,7 +60,7 @@ body > article > header > nav > ul{
     display: none;
 }
 
-@media only screen and (min-width: 651px)  {
+@media only screen and (min-width: 751px)  {
 
 article{
     border: solid 10px #5E0C00;
